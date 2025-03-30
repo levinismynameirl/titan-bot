@@ -6,3 +6,10 @@ commands are as follows:
 - unlock channel (will unlock current channel setting it to pre-lock permissions)
 
   Prefix is "!"
+
+
+(for devs)
+git add .
+git commit -m "Your commit message"
+git push origin master
+
